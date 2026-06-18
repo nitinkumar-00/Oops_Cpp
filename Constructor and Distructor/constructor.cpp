@@ -14,11 +14,8 @@ public:
     void display(){
         cout<<"Name "<<name<<endl;
         cout<<"Age "<<age;
-    }
-
-   
+    } 
 };
-
 int main() {
     A obj1;
     A obj2("nitin",20);
